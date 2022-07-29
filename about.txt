@@ -1,0 +1,1 @@
+This is a simple chrome extension which is used to turn your chrome into dark mode.
